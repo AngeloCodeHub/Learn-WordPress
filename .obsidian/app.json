@@ -1,0 +1,13 @@
+{
+  "userIgnoreFilters": [
+    "node_modules/",
+    "src/",
+    "wp-admin/",
+    "wp-includes/"
+  ],
+  "showInlineTitle": true,
+  "showLineNumber": true,
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "preview",
+  "tabSize": 2
+}
