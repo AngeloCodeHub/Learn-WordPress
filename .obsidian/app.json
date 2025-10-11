@@ -3,9 +3,10 @@
     "node_modules/",
     "src/",
     "wp-admin/",
-    "wp-includes/"
+    "wp-includes/",
+    "wp-content/"
   ],
-  "showInlineTitle": true,
+  "showInlineTitle": false,
   "showLineNumber": true,
   "alwaysUpdateLinks": true,
   "defaultViewMode": "preview",

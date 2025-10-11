@@ -1,8 +1,11 @@
 {
   "window.title": "${rootName}→${activeEditorShort}",
-  "cSpell.words": [],
   "files.exclude": {
     ".obsidian": true,
+    "wp-admin": true,
+    "wp-includes": true,
+    "node_modules": true,
+    ".tmb": true,
   },
   "typescript.tsdk": "node_modules/typescript/lib",
   "typescript.enablePromptUseWorkspaceTsdk": true,

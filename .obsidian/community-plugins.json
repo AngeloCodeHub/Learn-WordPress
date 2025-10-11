@@ -1,4 +1,6 @@
 [
   "file-explorer-plus",
-  "obsidian-editor-shortcuts"
+  "obsidian-editor-shortcuts",
+  "obsidian-importer",
+  "obsidian-linter"
 ]

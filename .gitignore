@@ -45,13 +45,16 @@ _env
 #
 # Note: if you want to stage/commit WP core files
 # you can delete this whole section/until Configuration.
-/.tmb/
-/wp-admin/
-/wp-includes/
+/.tmb
+/wp-admin
+/wp-includes
 /wp-content/index.php
 /wp-content/languages
 /wp-content/plugins/index.php
 /wp-content/themes/index.php
+/wp-content/jetpack-waf
+/wp-content/mu-plugins
+/wp-content/upgrade
 /index.php
 /license.txt
 /readme.html
@@ -61,17 +64,21 @@ _env
 # Configuration
 wp-config.php
 
+# /wp-content/*
+
 # Example themes
-/wp-content/themes/twenty*/
+# /wp-content/themes/twenty*/
+/wp-content/themes/*
 
 # Example plugin
-/wp-content/plugins/hello.php
-/wp-content/plugins/akismet
-/wp-content/plugins/wp-file-manager
-/wp-content/plugins/filebird
+# /wp-content/plugins/hello.php
+# /wp-content/plugins/akismet
+# /wp-content/plugins/wp-file-manager
+# /wp-content/plugins/filebird
+/wp-content/plugins/*
 
 # Uploads
-/wp-content/uploads/
+/wp-content/uploads
 
 # htaccess
 /.htaccess
